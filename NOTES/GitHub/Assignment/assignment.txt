@@ -1,0 +1,14 @@
+what is git
+-- version control
+
+what is github
+ -- platform that uses git 
+ -- upload your code
+ -- collab
+ -- popular for open source (free public)
+ 
+what are alternatives of github
+ -- gitlab, bitbucket, azure repos
+ 
+what is repository
+  -- space to store a code
