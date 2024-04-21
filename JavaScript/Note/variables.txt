@@ -1,0 +1,11 @@
+There are 2 types of variable in js that are declared by const and let/var
+
+We use let instead of var to declare a changing variable because var creates alot of problems in the future.
+
+eg:
+const pi = 22/7
+let length = 21
+
+-To assign a value to the variable we use =
+
+But to compare the variables we use == and to check its type as well we use ===
