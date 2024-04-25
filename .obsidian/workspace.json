@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "JavaScript/Note/Array/HOF (array.xxx).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "JavaScript/Note/Array/HOF (array.xxx).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "JavaScript/Note/Array/HOF (array.xxx).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "JavaScript/Note/Array/HOF (array.xxx).md"
               }
             }
           }
@@ -148,8 +148,12 @@
   },
   "active": "deeacb7bd0c93735",
   "lastOpenFiles": [
-    "Welcome.md",
     "README.md",
+    "JavaScript/Note/Array/HOF (array.xxx).md",
+    "JavaScript/Note/Array",
+    "JavaScript/Note/Object/Array",
+    "JavaScript/Untitled",
+    "Welcome.md",
     "test.txt",
     "members.txt",
     "JavaScript/Note/Object/HOF.txt",
@@ -157,9 +161,6 @@
     "JavaScript/Note/Object",
     "JavaScript/Note",
     "JavaScript",
-    "Github/Assignment/assignment.txt",
-    "Github/Notes/github.png",
-    "Github/Assignment",
-    "Github/Notes"
+    "Github/Notes/github.png"
   ]
 }
