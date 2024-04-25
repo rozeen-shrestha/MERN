@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JavaScript/Note/Array/HOF (array.xxx).md",
+                "file": "JavaScript/Note/Array/Properties.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript/Note/Array/HOF (array.xxx).md",
+                "file": "JavaScript/Note/Array/Properties.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JavaScript/Note/Array/HOF (array.xxx).md",
+                "file": "JavaScript/Note/Array/Properties.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JavaScript/Note/Array/HOF (array.xxx).md"
+                "file": "JavaScript/Note/Array/Properties.md"
               }
             }
           }
@@ -146,10 +146,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "deeacb7bd0c93735",
+  "active": "7be5cef09b0d3b12",
   "lastOpenFiles": [
     "README.md",
-    "JavaScript/Note/Array/HOF (array.xxx).md",
+    "JavaScript/Note/Array/Properties.md",
     "JavaScript/Note/Array",
     "JavaScript/Note/Object/Array",
     "JavaScript/Untitled",
