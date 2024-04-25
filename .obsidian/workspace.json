@@ -13,13 +13,42 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JavaScript/Note/Array/Properties.md",
+                "file": "JavaScript/Note/Array/Differences - array properties.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "1db7bde84df50bc6",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Images/foreach() vs map().png"
+              }
+            }
+          },
+          {
+            "id": "c25c83455de89e56",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Images/map() vs filter().png"
+              }
+            }
+          },
+          {
+            "id": "e5e3c345cdc11e52",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript/Note/Array/Properties.md",
+                "file": "Images/map() vs filter().png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JavaScript/Note/Array/Properties.md",
+                "file": "Images/map() vs filter().png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JavaScript/Note/Array/Properties.md"
+                "file": "Images/map() vs filter().png"
               }
             }
           }
@@ -148,8 +177,16 @@
   },
   "active": "7be5cef09b0d3b12",
   "lastOpenFiles": [
-    "README.md",
+    "Images/map vs filter vs reduce.png",
+    "Images/foreach() vs map().png",
+    "Images",
+    "Images/map() vs filter().png",
+    "JavaScript/Note/Array/Differences - array properties.md",
+    "Pasted image 20240425153450.png",
+    "Pasted image 20240425153359.png",
+    "foreach vs map.png",
     "JavaScript/Note/Array/Properties.md",
+    "README.md",
     "JavaScript/Note/Array",
     "JavaScript/Note/Object/Array",
     "JavaScript/Untitled",
@@ -160,7 +197,6 @@
     "JavaScript/Note/variables.txt",
     "JavaScript/Note/Object",
     "JavaScript/Note",
-    "JavaScript",
     "Github/Notes/github.png"
   ]
 }
