@@ -33,9 +33,11 @@
             "id": "c25c83455de89e56",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Images/map() vs filter().png"
+                "file": "JavaScript/Note/Array/Properties.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -114,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Images/map() vs filter().png",
+                "file": "JavaScript/Note/Array/Properties.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Images/map() vs filter().png",
+                "file": "JavaScript/Note/Array/Properties.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Images/map() vs filter().png"
+                "file": "JavaScript/Note/Array/Properties.md"
               }
             }
           }
@@ -175,22 +177,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7be5cef09b0d3b12",
+  "active": "c25c83455de89e56",
   "lastOpenFiles": [
+    "Welcome.md",
+    "JavaScript/Note/Array/Properties.md",
+    "JavaScript/Note/Array/Differences - array properties.md",
+    "Images/map() vs filter().png",
     "Images/map vs filter vs reduce.png",
     "Images/foreach() vs map().png",
     "Images",
-    "Images/map() vs filter().png",
-    "JavaScript/Note/Array/Differences - array properties.md",
     "Pasted image 20240425153450.png",
     "Pasted image 20240425153359.png",
     "foreach vs map.png",
-    "JavaScript/Note/Array/Properties.md",
     "README.md",
     "JavaScript/Note/Array",
     "JavaScript/Note/Object/Array",
     "JavaScript/Untitled",
-    "Welcome.md",
     "test.txt",
     "members.txt",
     "JavaScript/Note/Object/HOF.txt",
