@@ -28,6 +28,18 @@ Notes:
 		- [x] HOF [Open Note](JavaScript/Note/Array/HOF.md)
 		- [x] Differences of HOF(s) [Open Note](JavaScript/Note/Array/Differences-HOF.md)
 	- [ ] Object
+       # Object
+
+
+## Defining object:
+```
+let person = {
+    name: "abc",
+    age: 15,
+    isStudent: true
+};
+```
+
 	- [ ] Scope
 ---
 
