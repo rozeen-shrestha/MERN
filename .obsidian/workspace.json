@@ -8,49 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "deeacb7bd0c93735",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JavaScript/Note/Array/Differences - array properties.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1db7bde84df50bc6",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Images/foreach() vs map().png"
-              }
-            }
-          },
-          {
             "id": "c25c83455de89e56",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "JavaScript/Note/Array/Properties.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
-          },
-          {
-            "id": "e5e3c345cdc11e52",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -179,8 +148,8 @@
   },
   "active": "c25c83455de89e56",
   "lastOpenFiles": [
-    "Welcome.md",
     "JavaScript/Note/Array/Properties.md",
+    "Welcome.md",
     "JavaScript/Note/Array/Differences - array properties.md",
     "Images/map() vs filter().png",
     "Images/map vs filter vs reduce.png",
