@@ -92,7 +92,7 @@ const isEven = arr.every((item) => {
 });
 console.log(isEven); // Output: true
 ```
-The `every` method is used to check if all elements in the array satisfy a condition. In this case, the condition checks whether each element is even (`item % 2 === 0`). If all elements meet this condition, `isEven` will be `true`; otherwise, it will be `false`.
+The `every` method is used to check if all elements in the array satisfy a condition. In this case, the condition checks whether each element is even (`item % 2 === 0`). If all elements meet this condition, `isEven` will be `true`; otherwise, it will be `fal se`.
 
 ---
 
